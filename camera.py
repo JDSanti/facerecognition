@@ -8,7 +8,7 @@ import numpy as np
 import cv2
 
 #Opening IP Camera Stream 
-cap = cv2.VideoCapture('http://s7:SamsungGalaxyS7@192.168.1.35:8080/video')
+cap = cv2.VideoCapture('http://x.x.x.x:8080/video')
 
 
 while True:
